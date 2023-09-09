@@ -3,7 +3,7 @@ ShellSwap is a Swiss owned decentralized crypto exchange, offering a swap fee of
 
 Liquidity is provided by the Uniswap-V2 pool.
 
-The ShellSwap App supports all major crypto wallets and credit card payment gateways such as MoonPay, Apple Pay, Google Pay and PayPal.
+The ShellSwap App supports all major crypto wallets, credit card payment and bank transfer gateways such as MoonPay, Apple Pay, Google Pay and PayPal.
 
 ___
 https://www.zardosfx.com/shellswap
