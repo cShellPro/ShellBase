@@ -1,5 +1,5 @@
 # ShellSwap
-ShellSwap is a Swiss owned decentralized crypto exchange, offering a swap fee of 0.09% on the Ethereum, Polygon, Arbitrum, Optimism, Avalanche, Fantom and Metis Networks. No registration or minimum crypto wallet balance is required and U.S. customers are welcome. 
+ShellSwap is a Swiss owned decentralized crypto exchange, offering a swap fee of 0.09% on the Ethereum, Polygon, Arbitrum, Optimism, Avalanche, Fantom and Metis Networks. No registration or minimum crypto wallet balance is required to trade and U.S. customers are welcome. 
 
 Liquidity is provided by the Uniswap-V2 pool.
 
