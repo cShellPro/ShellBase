@@ -36,7 +36,6 @@ contract Flashloan {
   // uint constant deadline = now + 100;
   uint constant deadline = 100;
 
-  /*
   constructor(address _factory, address _sushiSwapRouter) public {
     // create uniswap factory
     uniSwapRouter = _factory;  
@@ -44,7 +43,6 @@ contract Flashloan {
     // create sushiswapRouter 
     sushiSwapRouter = IUniswapV2Router02(_sushiSwapRouter);
   }
-  */
 
   // trader needs to monitor for arbitrage opportunities with a bot or script
   // this is the function that trader will call when an arbitrage opportunity exists
