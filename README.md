@@ -7,3 +7,5 @@ The ShellSwap App supports all major crypto wallets, credit card payment and ban
 
 ___
 ShellSwap App: https://www.zardosfx.com/shellswap
+
+(License: GNU GPL-3.0, General Public license)
