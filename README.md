@@ -9,7 +9,7 @@ The ShellBase App supports all major crypto wallets, credit card payment and ban
 Why using ShellBase?
 - non-custodial and decentralized
 - low swap fees of 0.08%
-- all major blackchains are supported
+- all major blockchains are supported
 - No KYC required
 - Large number (300+) of tokens to trade
 - Flexible payment systems available
