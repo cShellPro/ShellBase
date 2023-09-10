@@ -3,7 +3,7 @@ ShellBase is a non-custodial, Swiss owned Decentralized Crypto Exchange (DEX), w
 
 Over 200 crypto currencies can be traded and liquidity and token staking is provided by the Uniswap-V2 pool.
 
-The ShellBase App supports all major crypto wallets, credit card payment and bank transfer gateways such as MoonPay, Apple Pay, Google Pay and PayPal.
+The ShellBase App supports all major crypto wallets, credit card payment and bank transfer gateways such as MoonPay, Apple Pay, Google Pay and PayPal. No additional deposit or withdrawal fees are charged.
 
 ___
 ShellBase App: https://www.zardosfx.com/shellbase
