@@ -15,7 +15,7 @@ Why using ShellBase?
 - Flexible payment systems available
 - No additional deposit or withdrawal charges
 - High liquidity for crypto arbitrage with flashloans
-- Earn interest by staking your tokens on ShellBase
+- Earn interest by staking your tokens on the ShellBase lending pool
 - Easy to use and beginner friendly trading interface
 - Based in Switzerland and adhering to Swiss privacy policies
 
