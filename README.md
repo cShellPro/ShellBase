@@ -7,7 +7,7 @@ Over 300+ crypto currencies can be traded and liquidity and token staking is pro
 The ShellBase App supports all major crypto wallets, credit card payment and bank transfer gateways such as MoonPay, Apple Pay, Google Pay, BitPay, BitStamp and PayPal. No additional deposit or withdrawal fees are charged.
 
 Why using ShellBase?
-- non-custodial and decentralized
+- non-custodial and decentralized Exchange
 - low, flat swap fee of 0.08%
 - all major blockchains are supported
 - No KYC or registration required
