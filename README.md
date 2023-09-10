@@ -15,6 +15,7 @@ Why using ShellBase?
 - Flexible payment systems available
 - No additional deposit or withdrawal charges
 - High liquidity for crypto arbitrage with flashloans
+- Easy to use and beginner friendly trading interface
 - Securely based in Switzerland
 
 ___
