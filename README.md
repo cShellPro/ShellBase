@@ -2,7 +2,7 @@
 Swap, buy and sell crypto and fiat currencies effortlessly.
 ShellBase is a non-custodial, Swiss owned Decentralized Crypto Exchange (DEX), with a low swap fee of 0.08% on the Ethereum, Binance, Polygon, Arbitrum, Optimism, Avalanche, Fantom, Solana and Metis Networks. No registration (KYC) or minimum crypto wallet balance is required to trade and U.S. customers are welcome. 
 
-Over 300+ crypto currencies can be traded and liquidity and token staking is provided by the Uniswap-V2 pool, giving traders access to large funds for crypto arbitrage with flashloans.
+Over 300+ crypto currencies can be traded and liquidity and token staking is provided by the Uniswap-V2 pool, giving traders access to large funds for crypto flashloan arbitrage without any collateral.
 
 The ShellBase App supports all major crypto wallets, credit card payment and bank transfer gateways such as MoonPay, Apple Pay, Google Pay and PayPal. No additional deposit or withdrawal fees are charged.
 
