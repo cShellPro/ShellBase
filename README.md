@@ -17,7 +17,7 @@ Why using ShellBase?
 - High liquidity for crypto arbitrage with flashloans
 - Earn interest when staking your tokens on ShellBase
 - Easy to use and beginner friendly trading interface
-- Based in Switzerland and adhering to Swiss privacy policy
+- Based in Switzerland and adhering to Swiss privacy policies
 
 ___
 ShellBase App: https://www.zardosfx.com/shellbase
