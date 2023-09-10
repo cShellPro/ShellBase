@@ -10,7 +10,7 @@ Why using ShellBase?
 - non-custodial and decentralized
 - low, flat swap fee of 0.08%
 - all major blockchains are supported
-- No KYC required
+- No KYC or registration required
 - Large number (300+) of tokens to trade
 - Flexible payment systems available
 - No additional deposit or withdrawal charges
