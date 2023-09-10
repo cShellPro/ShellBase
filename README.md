@@ -14,7 +14,7 @@ Why using ShellBase?
 - Large number (300+) of tokens to trade
 - Flexible payment systems available
 - No additional deposit or withdrawal charges
-- Ideal Exchange for crypto arbitrage, using flashloans
+- High liquidity for crypto arbitrage with flashloans
 - Securely based in Switzerland
 
 ___
