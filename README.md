@@ -11,7 +11,7 @@ Why using ShellBase?
 - low, flat swap fee of 0.08%
 - all major blockchains are supported
 - No KYC or registration required
-- Large number (300+) of tokens to trade
+- Large number (300+) of tokens available
 - Flexible payment systems available
 - No additional deposit or withdrawal charges
 - High liquidity for crypto arbitrage with flashloans
