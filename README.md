@@ -1,6 +1,6 @@
 # ShellBase (SBS)
 Swap, buy and sell crypto and fiat currencies effortlessly.
-ShellBase is a non-custodial, Swiss owned Decentralized Crypto Exchange (DEX), with a low transaction fee of 0.08% on the Ethereum, Binance, Polygon, Arbitrum, Optimism, Avalanche, Fantom, Solana and Metis Networks. No registration (KYC) or minimum crypto wallet balance is required to trade and U.S. customers are welcome. 
+ShellBase is a non-custodial, Swiss owned Decentralized Crypto Exchange (DEX), with a low transaction fee of 0.08% on the Ethereum, Arbitrum, Optimism, Polygon, Base, BNB Chain, Avalanche and Celo Networks. No registration (KYC) or minimum crypto wallet balance is required to trade and U.S. customers are welcome. 
 
 Over 300+ crypto currencies can be traded and liquidity and token staking is provided by Uniswap-V2 pools, giving traders access to large funds for crypto flashloan arbitrage without any collateral.
 
