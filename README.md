@@ -4,7 +4,7 @@ ShellBase is a non-custodial, Swiss owned Decentralized Crypto Exchange (DEX), w
 
 Over 300+ crypto currencies can be traded and liquidity and token staking is provided by Uniswap-V2 pools, giving traders access to large funds for crypto flashloan arbitrage without any collateral.
 
-The ShellBase App supports major crypto wallets such as Uniswap Wallet, MetaMask, WalletConnect, Coinbase Wallet and credit card payment and bank transfer gateways such as MoonPay, Apple Pay, Google Pay, BitPay, BitStamp, Transak, Wyre and PayPal. No additional deposit or withdrawal fees are charged. There are no daily withdrawal limits on ShellBase and 24/7 support is provided via email and live chat. 
+The ShellBase App supports major crypto wallets such as Uniswap Wallet, MetaMask, WalletConnect, Coinbase Wallet and credit card payment and bank transfer gateways such as MoonPay, Apple Pay, Google Pay, BitPay, BitStamp, Transak, Wyre and PayPal. No additional deposit or withdrawal fees are charged. ShellBase has no daily withdrawal limits and 24/7 support is provided via email and live chat. 
 
 Why using ShellBase?
 - non-custodial and decentralized Exchange
